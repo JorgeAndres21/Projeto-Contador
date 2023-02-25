@@ -31,3 +31,7 @@ button {
     margin-right: 15px;
     cursor: pointer;
 }
+button:hover {
+    background: black;
+    color: white;
+}
